@@ -1,8 +1,6 @@
 # M2_ElectricalMeter
 # M2-Embedded_EnergyMeter
 
-## Linux OS Build
-[![Build](https://github.com/DINESHKUMARJEBASTINTR/M2_EnergyMeter/actions/workflows/Complie.yml/badge.svg)](https://github.com/DINESHKUMARJEBASTINTR/M2_EnergyMeter/actions/workflows/Complie.yml)
 
 ## CPP Check
 [![CPP Check](https://github.com/DINESHKUMARJEBASTINTR/M2_EnergyMeter/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/legends07/M2_EnergyMeter/blob/main/.github/workflows/cpp_check.yml)
